@@ -21,6 +21,10 @@ DB_NAME="<db_name>"
 DB_PASSWORD="<password>"
 DB_HOST="<host>"
 ```
+---
+
+<img src="data/images/logo1.png" alt="logo1">
+<img src="data/images/logo2.png" alt="logo2">
 
 ---
 
