@@ -1,6 +1,10 @@
 # TodoTgBot
 
 ---
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/saneksking/todo_tg_bot)](https://github.com/saneksking/todo_tg_bot/)
+![GitHub top language](https://img.shields.io/github/languages/top/saneksking/CLIToDo)
+[![GitHub](https://img.shields.io/github/license/saneksking/todo_tg_bot)](https://github.com/saneksking/todo_tg_bot/blob/master/LICENSE)
+---
 **ToDo TG Bot** - simple and comfortable Telegram bot for keep your tasks for a day :).
 ---
 
