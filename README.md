@@ -1,6 +1,10 @@
 # TodoTgBot
 
 ---
+**ToDo TG Bot** - simple and comfortable Telegram bot for keep your tasks for a day :).
+---
+
+## HELP:
 
 ### MariaDb:
 
